@@ -1,0 +1,40 @@
+.form-container {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.form-container form {
+  width: 100%;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: 1fr 100px;
+  gap: 1rem;
+}
+
+.form-container form input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: .5rem;
+  font-family: system-ui;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.form-container form button {
+  width: 100%;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: border .2s ease;
+  background-color: #444;
+  color: #fff;
+}
+
+.form-container form button:hover {
+  border-color: #09f;
+}

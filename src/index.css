@@ -1,0 +1,76 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: #eee;
+}
+
+*, 
+*::after, 
+*::before {
+  padding: inherit;
+  margin: inherit;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  padding: 0;
+  aspect-ratio: 6/7;
+}
+
+a {
+  color: #09f;
+  text-decoration: none;
+  font-weight: 600;
+  transition: opacity .2s ease;
+}
+
+a:hover {
+  opacity: .9;
+}
+
+a.active {
+  color: #0f0;
+}
+
+main {
+  margin-top: .5rem;
+  padding: .5rem;
+}
+
+.title {
+  color: #09f;
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.grid-1-5 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
+  gap: 2rem;
+}
+
+.no-results {
+  text-align: center;
+  color: #fff;
+  grid-column: 1 / -1;
+}
+
+.no-results span {
+  color: #09f;
+  padding: 0;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "title": "Learn More Python 3 the Hard Way",
+      "subtitle": "The Next Step for New Python Programmers",
+      "isbn13": "9780134123486",
+      "price": "$22.33",
+      "image": "https://itbook.store/img/books/9780134123486.png",
+      "url": "https://itbook.store/books/9780134123486"
+    },
+    {
+      "title": "Beginning Python",
+      "subtitle": "Using Python 2.6 and Python 3.1",
+      "isbn13": "9780470414637",
+      "price": "$7.99",
+      "image": "https://itbook.store/img/books/9780470414637.png",
+      "url": "https://itbook.store/books/9780470414637"
+    },
+    {
+      "title": "C and Python Applications",
+      "subtitle": "Embedding Python Code in C Programs, SQL Methods, and Python Sockets",
+      "isbn13": "9781484277737",
+      "price": "$33.74",
+      "image": "https://itbook.store/img/books/9781484277737.png",
+      "url": "https://itbook.store/books/9781484277737"
+    },
+    {
+      "title": "DevOps in Python, 2nd Edition",
+      "subtitle": "Infrastructure as Python",
+      "isbn13": "9781484279953",
+      "price": "$37.95",
+      "image": "https://itbook.store/img/books/9781484279953.png",
+      "url": "https://itbook.store/books/9781484279953"
+    },
+    {
+      "title": "Coffee Break Python Slicing",
+      "subtitle": "24 Workouts to Master Slicing in Python, Once and for All",
+      "isbn13": "1001605784161",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001605784161.png",
+      "url": "https://itbook.store/books/1001605784161"
+    },
+    {
+      "title": "First Semester in Numerical Analysis with Python",
+      "subtitle": "",
+      "isbn13": "1001635859634",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001635859634.png",
+      "url": "https://itbook.store/books/1001635859634"
+    },
+    {
+      "title": "Introduction to Python for Computational Science and Engineering",
+      "subtitle": "A beginner&#039;s guide",
+      "isbn13": "1001655478790",
+      "price": "$0.00",
+      "image": "https://itbook.store/img/books/1001655478790.png",
+      "url": "https://itbook.store/books/1001655478790"
+    },
+    {
+      "title": "Programming in Python 3, 2nd Edition",
+      "subtitle": "A Complete Introduction to the Python Language",
+      "isbn13": "9780321680563",
+      "price": "$33.54",
+      "image": "https://itbook.store/img/books/9780321680563.png",
+      "url": "https://itbook.store/books/9780321680563"
+    },
+    {
+      "title": "Learn Python the Hard Way, 3rd Edition",
+      "subtitle": "A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code",
+      "isbn13": "9780321884916",
+      "price": "$29.95",
+      "image": "https://itbook.store/img/books/9780321884916.png",
+      "url": "https://itbook.store/books/9780321884916"
+    },
+    {
+      "title": "Python in Practice",
+      "subtitle": "Create Better Programs Using Concurrency, Libraries, and Patterns",
+      "isbn13": "9780321905635",
+      "price": "$22.50",
+      "image": "https://itbook.store/img/books/9780321905635.png",
+      "url": "https://itbook.store/books/9780321905635"
+    }
+  ]
+}
